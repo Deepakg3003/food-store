@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.head{
+	background-color:lightgreen;
+}
+
+.logo{
+	height: 40px;
+	
+}
+
+body{
+	background-image: url('resource/img/storebg.jpg');
+}
+
+.text{
+	color: red;
+}
+
+
+
+.addproduct{
+	
+	border: 2px solid black;
+}
+
+.add{
+	margin-left: 400px;
+}
+.line{
+	background-color: skyblue;
+}
+
+.info{
+	height: 100px;
+	width: 200px;
+	background-color: yellow;
+	color: whitesmoke;
+}
